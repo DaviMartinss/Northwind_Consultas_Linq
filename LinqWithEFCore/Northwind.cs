@@ -1,0 +1,27 @@
+using Microsoft.EntityFrameworkCore;
+
+namespace Packt.Shared
+{
+    public class Northwind :  DbContext
+    {
+        // Essas propriedades mapeiam para tabelas no banco de dados
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
+
+        protected override void OnConfiguring(
+            DbContextOptionsBuilder optionsBuilder)
+        {
+            string path = System.IO.Path.Combine(
+                System.Environment.CurrentDirectory, "Northwind.db");
+                
+            optionsBuilder.UseSqlite($"Filename={path}");
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Product>()
+                .Property(product => product.UnitPrice)
+                .HasConversion<double>();
+        }
+    }
+}

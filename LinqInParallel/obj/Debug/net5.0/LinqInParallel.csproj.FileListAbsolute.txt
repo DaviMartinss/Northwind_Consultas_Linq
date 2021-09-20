@@ -1,0 +1,16 @@
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.exe
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\bin\Debug\net5.0\ref\LinqInParallel.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\obj\Debug\net5.0\ref\LinqInParallel.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.genruntimeconfig.cache

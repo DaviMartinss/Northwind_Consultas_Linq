@@ -1,0 +1,48 @@
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.exe
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.deps.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\ref\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\ref\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.pdb
+C:\Users\pc\Documents\Trabalho - FitBank\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.exe
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.deps.json
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\ref\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.pdb
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\ref\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.pdb
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\bin\Debug\net5.0\LinqWithSets.exe
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\bin\Debug\net5.0\LinqWithSets.deps.json
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.json
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.dev.json
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\bin\Debug\net5.0\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\bin\Debug\net5.0\ref\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\bin\Debug\net5.0\LinqWithSets.pdb
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\obj\Debug\net5.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\obj\Debug\net5.0\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\obj\Debug\net5.0\ref\LinqWithSets.dll
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\obj\Debug\net5.0\LinqWithSets.pdb
+C:\Users\pc\Documents\Trabalho - OSB CORE\LIVRO\Ativ_Cap_12_entrega\LinqWithSets\obj\Debug\net5.0\LinqWithSets.genruntimeconfig.cache
